@@ -6,7 +6,7 @@
 	<!-- Basic Page Needs -->
 	<meta charset="UTF-8">
 	<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-	<title>FNC - Finance & Consulting, Accounting HTML Template</title>
+	<title>PT. Trijasa</title>
 
 	<meta name="author" content="themsflat.com">
 
@@ -124,16 +124,16 @@
                                     <nav id="mainnav" class="mainnav">
                                         <ul class="menu">
                                             <li class="active">
-                                                <a href="index.html" title="">Home</a>
+                                                <a href="/" title="">Home</a>
                                             </li>
                                             <li>
-                                                <a href="about.html" title="">Tentang Kami</a>
+                                                <a href="/tentang-kami" title="">Tentang Kami</a>
                                             </li>
                                             <li>
-                                                <a href="services.html" title="">Portfolio</a>
+                                                <a href="/portfolio" title="">Portfolio</a>
                                             </li>
                                             <li>
-                                                <a href="#" title="">Hubungi Kami</a>
+                                                <a href="/hubungi-kami" title="">Hubungi Kami</a>
                                             </li>
                                         </ul><!-- /.menu -->
                                     </nav><!-- /#mainnav -->
@@ -319,508 +319,154 @@
             </div>
         </div><!-- END REVOLUTION SLIDER -->
 
-        <section class="flat-iconbox style1 scroll">
+        <section class="flat-about style2">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4">
-                        <div class="iconbox style5">
-                            <div class="iconbox-icon">
-                                <span class="icon-wallet"></span>
-                            </div>
-                            <div class="iconbox-content">
-                                <h3>Kerjasama yang baik</h3>
-                                <p>Membangun kemitraan yang solid dan berintegritas tinggi.</p>
-                                <div class="btn-more">
-                                    <a href="#" title="">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="iconbox style5">
-                            <div class="iconbox-icon">
-                               <span aria-hidden="true" class="icon-presentation"></span>
-                            </div>
-                            <div class="iconbox-content">
-                                <h3>Solusi Handal</h3>
-                                <p>Memberikan solusi tepat dalam menyelesaikan suatu pekerjaan.</p>
-                                <div class="btn-more">
-                                    <a href="#" title="">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="iconbox style5">
-                            <div class="iconbox-icon">
-                                <span class="icon-tools"></span>
-                            </div>
-                            <div class="iconbox-content">
-                                <h3>Strategi Kreatif</h3>
-                                <p>Meningkatkan produktivitas dengan strategi terbaik.</p>
-                                <div class="btn-more">
-                                    <a href="#" title="">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-9 col-md-8">
-                        <div class="text-download">
-                            <h2>No PMI Required. Little Money Down. Forgivable Loans.</h2>
-                            <p>Lorem Ipsum ist ein einfacher Demo-Text fur die Print- und Schriftindustrie. Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500, als ein unbekannter Schriftsteller eine Hand voll Worter nahm und.</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-4">
-                        <div class="widget-brochures">
-                            <ul class="download style1">
-                                <li class="pdf">
-                                    <a href="#" title="">Application Form.PDF</a>
-                                </li>
-                                <li class="doc">
-                                    <a href="#" title="">Loan Form.DOC</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="flat-submit parallax parallax5 scroll">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="form-submit">
-                            <h1>NEED MORE US?</h1>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and into electroni</p>
-                            <form action="#" method="get" accept-charset="utf-8">
-                                <div class="input-form">
-                                    <input type="text" name="email" placeholder="Your mail...">
-                                    <button type="submit">SUBSCRIBE</button>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="flat-tab-about scroll">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="tab-list-about">
-                            <ul class="tab-menu">
-                                <li class="active">Why choose us?</li>
-                                <li>Services</li>
-                                <li>FAQ</li>
-                            </ul>
-                            <div class="content-tab">
-                                <div class="content-inner row">
-                                    <div class="one-half">
-                                        <div class="text-tabs style1">
-                                            <div class="text-content">
-                                                <h2>Why choose us?</h2>
-                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
-                                            </div>
-                                            <div class="text-content">
-                                                <div class="text-list">
-                                                    <div class="image">
-                                                        <img src="images/services/02.jpg" alt="">
-                                                    </div>
-                                                    <ul>
-                                                        <li>
-                                                            Lorem Ipsum is simply dummy text of
-                                                        </li>
-                                                        <li>
-                                                            And typesetting industry. Lorem Ipsum
-                                                        </li>
-                                                        <li>
-                                                            Has been the industry's standard dummy
-                                                        </li>
-                                                        <li>
-                                                            Ever since the 1500s, when an unknown
-                                                        </li>
-                                                    </ul>
-                                                    <div class="clearfix"></div>
-                                                </div>
-                                            </div>
-                                        </div><!-- /.text-tabs -->
-                                    </div>
-                                    <div class="one-half">
-                                        <div class="wrap-counter style1">
-                                            <div class="square style2 center">
-                                                <div class="counter-text">
-                                                    <div class="numb-count" data-from="0" data-to="831" data-speed="2000" data-waypoint-active="yes">831</div>
-                                                <div class="text">
-                                                   Workers employed
-                                                </div>
-                                                </div>
-                                                <div class="bg-image">
-                                                    <img src="images/page/counter-01.jpg" alt="">
-                                                </div>
-                                            </div><!-- /.square -->
-                                            <div class="square style2 center">
-                                                <div class="counter-text">
-                                                    <div class="numb-count" data-from="0" data-to="4327" data-speed="2000" data-waypoint-active="yes">4327</div>
-                                                    <div class="text">
-                                                        Line Of Codes
-                                                    </div>
-                                                </div>
-                                                <div class="bg-image">
-                                                    <img src="images/page/counter-02.jpg" alt="">
-                                                </div>
-                                            </div><!-- /.square -->
-                                            <div class="square style2 center">
-                                                <div class="counter-text">
-                                                    <div class="numb-count" data-from="0" data-to="2015" data-speed="2000" data-waypoint-active="yes">2015</div>
-                                                <div class="text">
-                                                    Projects Delivered
-                                                </div>
-                                                </div>
-                                                <div class="bg-image">
-                                                    <img src="images/page/counter-03.jpg" alt="">
-                                                </div>
-                                            </div><!-- /.square -->
-                                            <div class="square style2 plus center">
-                                                <div class="counter-text">
-                                                    <div class="numb-count" data-from="0" data-to="3201" data-speed="2000" data-waypoint-active="yes">3201</div>
-                                                <div class="text">
-                                                     Happy customers
-                                                </div>
-                                                </div>
-                                                <div class="bg-image">
-                                                    <img src="images/page/counter-04.jpg" alt="">
-                                                </div>
-                                            </div><!-- /.square -->
-                                        </div>
-                                    </div>
-                                    <div class="clearfix"></div>
-                                </div>
-                                <div class="content-inner">
-                                    <div class="row">
-                                        <div class="flat-title style1 center">
-                                            <h2>What we Offer</h2>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="iconbox style6 center">
-                                                <div class="iconbox-icon">
-                                                    <img src="images/icon/money.png" alt="">
-                                                </div>
-                                                <div class="iconbox-content">
-                                                    <h4>Business Services 1</h4>
-                                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="iconbox style6 center">
-                                                <div class="iconbox-icon">
-                                                    <img src="images/icon/idea.png" alt="">
-                                                </div>
-                                                <div class="iconbox-content">
-                                                    <h4>Business Services 2</h4>
-                                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="iconbox style6 center">
-                                                <div class="iconbox-icon">
-                                                    <img src="images/icon/startup.png" alt="">
-                                                </div>
-                                                <div class="iconbox-content">
-                                                    <h4>Business Services 3</h4>
-                                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="iconbox style6 center">
-                                                <div class="iconbox-icon">
-                                                    <img src="images/icon/creation.png" alt="">
-                                                </div>
-                                                <div class="iconbox-content">
-                                                    <h4>Business Services 4</h4>
-                                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="content-inner">
-                                    <div class="accordion style3 v1">
-                                        <div class="accordion-toggle">
-                                            <div class="toggle-title active">
-                                                Where from the Application form can be obtained? 
-                                            </div><!-- /.toggle-title -->
-                                            <div class="toggle-content">
-                                                <p>
-                                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam.
-                                                </p>
-                                            </div><!-- /.toggle-content -->
-                                        </div><!-- /.accordiontoggle -->
-                                        <div class="accordion-toggle">
-                                            <div class="toggle-title">
-                                               How is the deposit amount to be remitted? 
-                                            </div><!-- /.toggle-title -->
-                                            <div class="toggle-content">
-                                                <p>
-                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
-                                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam.
-                                                </p>
-                                            </div><!-- /.toggle-content -->
-                                        </div><!-- /.accordion-toggle -->
-                                        <div class="accordion-toggle">
-                                            <div class="toggle-title">
-                                                Whether Nomination facility is possible?
-                                            </div><!-- /.toggle-title -->
-                                            <div class="toggle-content">
-                                                <p>
-                                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam.
-                                                </p>
-                                            </div><!-- /.toggle-content -->
-                                        </div><!-- /.accordiontoggle -->
-                                        <div class="accordion-toggle">
-                                            <div class="toggle-title">
-                                               Whether FNC has collection centers or branches?  
-                                            </div><!-- /.toggle-title -->
-                                            <div class="toggle-content">
-                                                <p>
-                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
-                                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam.
-                                                </p>
-                                            </div><!-- /.toggle-content -->
-                                        </div><!-- /.accordion-toggle -->
-                                        <div class="accordion-toggle">
-                                            <div class="toggle-title">
-                                               What is the rate of interest payable on Deposits now? 
-                                            </div><!-- /.toggle-title -->
-                                            <div class="toggle-content">
-                                                <p>
-                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
-                                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam.
-                                                </p>
-                                            </div><!-- /.toggle-content -->
-                                        </div><!-- /.accordion-toggle -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="flat-imagebox style4 scroll">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
+                    <div class="about-us style3">
                         <div class="flat-title style1">
-                            <h2>Our Practice Areas</h2>
+                            <h2>Tentang Trijasa</h2>
                         </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="owl-carousel-11">
-                            <div class="portfolio-item style2">
-                                <div class="portfolio-image">
-                                    <img src="images/portfolio/09.jpg" alt="">
-                                    <a href="#" title="">
-                                        <span class="ion-arrow-move"></span>
-                                    </a>
-                                </div>
-                                <div class="portfolio-content">
-                                    <ul class="menu-portfolio">
-                                        <li>
-                                            <a href="#" title="">Business /</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" title="">Finance</a>
-                                        </li>
-                                    </ul>
-                                    <div>
-                                        <h4>
-                                            <a href="#" title="">There are now a set of mock banners</a>
-                                        </h4>
-                                    </div>
-                                </div>
+                        <div class="content">
+                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable .</p>
+                        </div>
+                        <div class="bottom">
+                            <div class="btn-more float-left">
+                               <a href="#" title="">Selengkapnya</a>
                             </div>
-                            <div class="portfolio-item style2">
-                                <div class="portfolio-image">
-                                    <img src="images/portfolio/10.jpg" alt="">
-                                    <a href="#" title="">
-                                        <span class="ion-arrow-move"></span>
-                                    </a>
-                                </div>
-                                <div class="portfolio-content">                                    
-                                    <ul class="menu-portfolio">
-                                        <li>
-                                            <a href="#" title="">Business /</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" title="">Finance</a>
-                                        </li>
-                                    </ul>
-                                    <div>
-                                        <h4>
-                                            <a href="#" title="">The wise man therefore always holds in these matters to this</a>
-                                        </h4>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="portfolio-item style2">
-                                <div class="portfolio-image">
-                                    <img src="images/portfolio/11.jpg" alt="">
-                                    <a href="#" title="">
-                                        <span class="ion-arrow-move"></span>
-                                    </a>
-                                </div>
-                                <div class="portfolio-content">
-                                    <ul class="menu-portfolio">
-                                        <li>
-                                            <a href="#" title="">Business /</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" title="">Finance</a>
-                                        </li>
-                                    </ul>
-                                    <div>
-                                        <h4>
-                                            <a href="#" title="">Alternative Investments: A Look at the Pros & Cons</a>
-                                        </h4>
-                                    </div>
-                                </div>
+                            <div class="btn-download float-right">
+                               <a href="#" title="">Download Company Profile</a>
                             </div>
                         </div>
                     </div>
-                </div>
+                    <div class="owl-about">
+                        <div class="owl-carousel-1 style1">
+                            <div class="images-about">
+                                <img src="images/about/04.jpg" alt="">
+                            </div>
+                            <div class="images-about">
+                                <img src="images/about/05.jpg" alt="">
+                            </div>
+                            <div class="images-about">
+                                <img src="images/about/06.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>                
             </div>
         </section>
 
-        <section class="parallax parallax3 scroll">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        
+        <section class="flat-about style1">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<div class="about-us style2">
+							<div class="flat-title style1">
+								<h2>Visi kami</h2>
+							</div>
+							<div class="content text-justify">
+                                <div class="visibox-content">
+                                    <span class="ion-star"></span>
+                                    <p class="text-justify" style="padding-left:70px">Menjadi perusahaan yang profesional, memiliki komitmen dan integritas tinggi yang terpercaya sebagai penyedia solusi aplikasi informasi multimedia berbasis teknologi serta keamanan data berskala global sehingga memberikan manfaat yang optimal untuk perusahaan maupun umum.</p>
+                                </div>
+								
+							</div>
+							<div class="bottom">
+								<div class="signature">
+									<img src="images/about/signature.png" alt="">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="flat-clients">
+							<div class="flat-title style1">
+								<h2>Misi Kami</h2>
+
+                                <div class="box-misi">
+                                    <ul class="text-justify">
+                                        <li>Memberikan kualitas terbaik, pelayanan yang handal, dan implementasi yang tepat dan cepat.</li>
+                                        <li>Menyediakan tim yang profesional.</li>
+                                        <li>Menjalankan Kemitraan dengan Perusahaan/Perorangan dalam memenuhi kebutuhan Barang dan Jasa dengan mengutamakan Quality, Cost dan Delivery (QCD) dalam Bidang ICT (Information Communication Technology) di Indonesia.</li>
+                                    </ul>
+                                </div>
+                                
+							</div>
+							
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</section>
+
+        <section class="flat-choose-us">
+            <div class="one-five">
+                <div class="box-title">
+                    <div class="flat-title style1 v1">
+                        <h2>Trijasa</h2>
                     </div>
-                    <div class="col-md-6">
-                        <div class="about-company">
-                            <h1><span>Top 20</span> Company <span>Start up</span> of the <span>Year</span></h1>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown.</p>
-                            <a class="fancybox slider" data-type="iframe" href="https://www.youtube.com/embed/2Ge1GGitzLw?autoplay=1">
-                                Watch video <span class="ion-android-arrow-forward"></span>
-                            </a>
-                        </div>
-                    </div>
+                    <ul class="pt-4">
+                        <li>Melayani setiap kebutuhan</li>
+                        <li>Membangun bangsa</li>
+                        <li>Lorem Ipsum ist in der Industrie bereits der</li>
+                    </ul>
                 </div>
             </div>
-            <div class="overlay"></div>
-        </section>
-
-        <section class="flat-news scroll">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="flat-title style1 center">
-                            <h2>Latest news</h2>
+            <div id="slider" class="slider-choose flexslider">
+                <ul class="slides">
+                    <li>
+                        <div class="choose-item">
+                            <div class="box-top">
+                                <div class="title">
+                                    01
+                                </div>
+                                <span>Kerjasama yang baik</span>
+                            </div>
+                            <div class="box-content">
+                                <p>Membangun kemitraan yang solid dan berintegritas tinggi.</p>
+                            </div>
                         </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="owl-carousel-13">
-                            <article class="main-post style2">
-                                <div class="featured-post">
-                                    <a href="#" title="">
-                                        <img src="images/blog/post-23.jpg" alt="" />
-                                    </a>
-                                </div><!-- /.featured-post -->
-                                <div class="entry-content">
-                                    <div class="date">
-                                        JAN 12, 2018
-                                    </div>
-                                    <h3>
-                                        <a href="#" title="">Hire a Branding Consultant</a>
-                                    </h3>
-                                    <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since...
-                                    </p>
-                                </div><!-- /.entry-content -->
-                            </article>
-                            <article class="main-post style2">
-                                <div class="featured-post">
-                                    <a href="#" title="">
-                                        <img src="images/blog/post-24.jpg" alt="" />
-                                    </a>
-                                </div><!-- /.featured-post -->
-                                <div class="entry-content">
-                                    <div class="date">
-                                        JAN 12, 2018
-                                    </div>
-                                    <h3>
-                                        <a href="#" title="">Hire a Branding Consultant</a>
-                                    </h3>
-                                    <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since...
-                                    </p>
-                                </div><!-- /.entry-content -->
-                            </article>
-                            <article class="main-post style2">
-                                <div class="featured-post">
-                                    <a href="#" title="">
-                                        <img src="images/blog/post-25.jpg" alt="" />
-                                    </a>
-                                </div><!-- /.featured-post -->
-                                <div class="entry-content">
-                                    <div class="date">
-                                        JAN 12, 2018
-                                    </div>
-                                    <h3>
-                                        <a href="#" title="">Hire a Branding Consultant</a>
-                                    </h3>
-                                    <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since...
-                                    </p>
-                                </div><!-- /.entry-content -->
-                            </article>
+                    </li>
+                    <li>
+                        <div class="choose-item">
+                            <div class="box-top">
+                                <div class="title">
+                                    02
+                                </div>
+                                <span>Solusi handal</span>
+                            </div>
+                            <div class="box-content">
+                                <p>Memberikan solusi tepat dalam menyelesaikan suatu pekerjaan.</p>
+                            </div>
                         </div>
-                        <div class="btn-more">
-                            <a href="#" title="">GO TO NEWS</a>
+                    </li>
+                    <li>
+                        <div class="choose-item">
+                            <div class="box-top">
+                                <div class="title">
+                                    03
+                                </div>
+                                <span>Strategi kreatif</span>
+                            </div>
+                            <div class="box-content">
+                                <p>Meningkatkan produktivitas dengan strategi terbaik.</p>
+                            </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="flat-partner style2 scroll">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <ul class="owl-carousel-10">
-                            <li>
-                                <img src="images/partner/13.png" alt="">
-                            </li>
-                            <li>
-                                <img src="images/partner/14.png" alt="">
-                            </li>
-                            <li>
-                                <img src="images/partner/15.png" alt="">
-                            </li>
-                            <li>
-                                <img src="images/partner/16.png" alt="">
-                            </li>
-                            <li>
-                                <img src="images/partner/17.png" alt="">
-                            </li>
-                        </ul>
-                    </div>
-                </div>
+                    </li>
+                    <li>
+                        <div class="choose-item">
+                            <div class="box-top">
+                                <div class="title">
+                                    04
+                                </div>
+                                <span>Flexibility</span>
+                            </div>
+                            <div class="box-content">
+                                <p>Lorem Ipsum ist ein einfacher Demo-Text für die Print- und Schriftindustrie. Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500</p>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
             </div>
         </section>
 

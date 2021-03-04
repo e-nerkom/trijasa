@@ -40,6 +40,17 @@
 	}
 }
 
+@media only screen and (max-width: 768px) {
+
+	.flat-choose-us {
+		position: relative;
+		margin-left: 0;
+		padding-left: 30px;
+		width: 100%;
+		margin-top: 15px;
+	}
+}
+
 @media only screen and (max-width: 1500px) {
 	.tparrows {
 		display: none;

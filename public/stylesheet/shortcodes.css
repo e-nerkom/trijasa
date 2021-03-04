@@ -301,12 +301,12 @@
 }
 
 .widget-brochures ul.download {
-    margin-top: 75px;
+    margin-top: 100px;
 }
 
 .widget-brochures ul.download li a {
     font-size: 16px;
-    color: #1c4671;
+    color: #423482;
     font-family: 'lato';
     line-height: 50px;
     padding-left: 52px;
@@ -319,7 +319,7 @@
 }
 
 .widget-brochures ul.download li a:hover {
-    background-color: #1c4671;
+    background-color: #423482;
     color: #fff;
 }
 
@@ -342,7 +342,7 @@
     right: -14px;
     width: 25px;
     height: 25px;
-    background-color: #1c4671;
+    background-color: #423482;
     transform: rotate(45deg);
 }
 
@@ -1147,7 +1147,7 @@
 }
 
 .flat-call-back.style1 {
-    background-color: #1c4671;
+    background-color: #423482;
     padding: 100px 0;
 }
 
@@ -1268,7 +1268,7 @@
 /* Call Back Form */
 .call-back-form {
     padding: 46px 30px 49px;
-    background-color: #1c4671;
+    background-color: #423482;
     margin-left: -25px;
     margin-right: -35px;
     margin-top: -114px;
@@ -2923,7 +2923,7 @@ ul.flat-pagination.style1 li.prev {
     padding-left: 30px;
 }
 .table-pricing.style1 table thead th {
-    background-color: #1c4671;
+    background-color: #423482;
     height: 65px;
     line-height: 65px;
     font-size: 16px;
@@ -2969,7 +2969,7 @@ ul.flat-pagination.style1 li.prev {
     font-size: 18px;
     font-weight: 500;
     font-family: 'Montserrat';
-    color: #1c4671;
+    color: #423482;
     width: 175px;
     border:none;
     padding-left: 25px;
@@ -3007,8 +3007,8 @@ ul.flat-pagination.style1 li.prev {
 .table-pricing.style1 table tbody tr td a {
     width: 100px;
     background-color: transparent;
-    border: 1px solid #1c4671;
-    color: #1c4671;
+    border: 1px solid #423482;
+    color: #423482;
     font-size: 18px;
     font-weight: 500;
 }
@@ -3020,9 +3020,9 @@ ul.flat-pagination.style1 li.prev {
 }
 
 /*.table-pricing.style1 table tbody tr td a:hover {
-    background-color: #1c4671;
+    background-color: #423482;
     color: #fff;
-    border-color: #1c4671;
+    border-color: #423482;
 }
 */
 /* Flat About Style2
@@ -3047,6 +3047,11 @@ ul.flat-pagination.style1 li.prev {
 }
 
 .about-us.style3 .bottom .btn-more {
+    text-align: left;
+    margin-top: 30px;
+}
+
+.about-us.style3 .bottom .btn-download {
     text-align: left;
     margin-top: 30px;
 }
@@ -3241,6 +3246,19 @@ ul.flat-pagination.style1 li.prev {
     color: #fff;
 }
 
+.btn-download a {
+    display: inline-block;
+    color: #5cbb60;
+    font-size: 13px;
+    font-weight: 600;
+    height: 46px;
+    line-height: 46px;
+}
+
+.btn-download a:hover {
+    color: #d83a1c;
+}
+
 /* Flat Imagebox Style1
 -------------------------------------------------------------- */
 .flat-imagebox.style1 {
@@ -3322,7 +3340,7 @@ ul.filter-wrap li:hover {
 .portfolio-item.style1 .portfolio-content h5 a {
     color: #fff;
     display: block;
-    background-color: #1c4671;
+    background-color: #423482;
     padding: 14px 15px 14px;
     position: relative;
     overflow: hidden;
@@ -3670,7 +3688,7 @@ ul.filter-wrap li:hover {
     top: 16px;
     left: 0;
     margin-bottom: 0px;
-    background-color: #1c4671;
+    background-color: #423482;
     height: 60px;
     line-height: 60px;
     width: 60px;
@@ -3688,7 +3706,7 @@ ul.filter-wrap li:hover {
 }
 
 .iconbox.style5 .iconbox-content h3 {
-    color: #1c4671;
+    color: #423482;
     font-size: 18px;
     margin-bottom: 6px;
 }
@@ -3714,7 +3732,7 @@ ul.filter-wrap li:hover {
 }
 
 .iconbox.style5 .iconbox-content .btn-more a:hover {
-    color: #1c4671;
+    color: #423482;
 }
 
 /* Download Style1 */
@@ -3723,13 +3741,13 @@ ul.filter-wrap li:hover {
 }
 
 .box-download .widget-brochures ul.download.style1 li a {
-    color: #1c4671;
+    color: #423482;
     background-color: #f4f5fa;
     box-shadow: 4px -4px 5px 0px rgba(0, 0, 0, 0.2);
 }
 
 .box-download .widget-brochures ul.download.style1 a:after {
-    background-color: #1c4671;
+    background-color: #423482;
 }
 
 .box-download .widget-brochures ul.download.style1 li a:hover {
@@ -3744,7 +3762,7 @@ ul.filter-wrap li:hover {
 }
 
 .text-download h2 {
-    color: #1c4671;
+    color: #423482;
     margin-bottom: 22px;
 }
 
@@ -3808,7 +3826,7 @@ ul.filter-wrap li:hover {
     font-family: 'Montserrat';
     font-weight: 500;
     font-size: 18px;
-    color: #1c4671;
+    color: #423482;
     display: inline-block;
     text-transform: uppercase;
     width: calc(33.333333333333% - 18px);
@@ -3958,7 +3976,7 @@ ul.filter-wrap li:hover {
 }
 
 .about-company.style1 h1 {
-    color: #1c4671;
+    color: #423482;
 }
 
 .about-company.style1 h1 span {
@@ -3967,7 +3985,7 @@ ul.filter-wrap li:hover {
 
 .about-company.style1 p,
 .about-company.style1 a {
-    color: #1c4671;
+    color: #423482;
 }
 
 .about-company.style1 a {
@@ -4031,7 +4049,7 @@ ul.filter-wrap li:hover {
 .owl-carousel-14.owl-theme .owl-controls .owl-nav div.owl-next:before {
     content: "\f30f";
     font-family: 'ionicons';
-    color: #1c4671;
+    color: #423482;
     font-size: 18px;
 }
 
@@ -4210,7 +4228,7 @@ ul.filter-wrap li:hover {
     background: -moz-linear-gradient(-45deg, rgb(37,37,37) 0%, rgb(255,255,255) 51%, rgb(37,37,37) 100%); /* FF3.6-15 */
     background: -webkit-linear-gradient(-45deg, rgb(37,37,37) 0%,rgb(255,255,255) 51%,rgb(37,37,37) 100%); /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(135deg, rgb(37,37,37) 0%,rgb(255,255,255) 51%,rgb(37,37,37) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1c4671', endColorstr='#1c4671',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#423482', endColorstr='#423482',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
     opacity: 0.5;
     -webkit-transition: all 0.3s ease-in-out;
        -moz-transition: all 0.3s ease-in-out;
@@ -4285,12 +4303,12 @@ ul.filter-wrap li:hover {
     width: 50%;
     left: 0;
     top: 0;
-    background-color: #1c4671;
+    background-color: #423482;
 }
 
 .flat-counter.style2 .container {
     padding: 159px 15px 45px;
-    background-color: #1c4671;
+    background-color: #423482;
     width: 1170px;
 }
 
@@ -4336,7 +4354,7 @@ ul.filter-wrap li:hover {
 }
 
 .box-title {
-    background-color: #18ba60;
+    background-color: #423482;
     color: #fff;
     padding: 46px 35px 40px;
     height: 267px;
@@ -4419,7 +4437,7 @@ ul.filter-wrap li:hover {
     position: absolute;
     font-size: 18px;
     font-family: 'Montserrat';
-    color: #1c4671;
+    color: #423482;
     font-weight: 600;
     top: 22px;
     left: 0;
