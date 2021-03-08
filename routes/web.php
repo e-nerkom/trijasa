@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\AuthController;
 
 /*
 |--------------------------------------------------------------------------
@@ -25,3 +26,9 @@ Route::get('/portfolio', function() {
 Route::get('/hubungi-kami', function() {
     return view('hubungi_kami');
 });
+
+// Authenticate
+Route::get('/login', [AuthController::class, 'getLogin']);
+Route::post('/login', [AuthController::class, 'postLogin']);
+Route::get('/register', [AuthController::class, 'getRegister']);
+Route::post('/register', [AuthController::class, 'postRegister']);
