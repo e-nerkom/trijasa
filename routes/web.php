@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\AuthController;
+use App\Http\Controllers\DashboardController;
 
 /*
 |--------------------------------------------------------------------------
@@ -24,4 +26,15 @@ Route::get('/portfolio', function() {
 });
 Route::get('/hubungi-kami', function() {
     return view('hubungi_kami');
+});
+
+// Authenticate
+Route::get('/login', [AuthController::class, 'getLogin'])->name('login');
+Route::post('/login', [AuthController::class, 'postLogin']);
+Route::get('/register', [AuthController::class, 'getRegister']);
+Route::post('/register', [AuthController::class, 'postRegister']);
+
+// Dashboard
+Route::group(['middleware' => 'auth', 'prefix' => 'admin'], function() {
+    Route::get('/dashboard', [DashboardController::class, 'index']);
 });
