@@ -13,7 +13,7 @@
                     <li data-index="rs-3050" data-transition="slideremovedown" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"    data-rotate="0"  data-saveperformance="off"  data-title="Ken Burns" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">    <div class="overlay-black"></div>
 
                         <!-- MAIN IMAGE -->
-                        <img src="images/slides/slide-04.jpg"  alt=""  data-bgposition="center center" data-kenburns="off" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                        <img src="images/banner/banner1.jpg"  alt=""  data-bgposition="center center" data-kenburns="off" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
 
                         <!-- LAYER NR. 12 -->
@@ -93,7 +93,7 @@
                     <li data-index="rs-3049" data-transition="slideremovedown" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"    data-rotate="0"  data-saveperformance="off"  data-title="Ken Burns" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">     <div class="overlay-black"></div>
 
                         <!-- MAIN IMAGE -->
-                        <img src="images/slides/slide-02.jpg"  alt=""  data-bgposition="center center" data-kenburns="off" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                        <img src="images/banner/banner2.jpg"  alt=""  data-bgposition="center center" data-kenburns="off" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
 
                         <!-- LAYER NR. 12 -->
@@ -196,13 +196,13 @@
                     <div class="owl-about">
                         <div class="owl-carousel-1 style1">
                             <div class="images-about">
-                                <img src="images/about/04.jpg" alt="">
+                                <img src="images/about/about_us1.jpg" alt="">
                             </div>
                             <div class="images-about">
-                                <img src="images/about/05.jpg" alt="">
+                                <img src="images/about/about_us2.jpg" alt="">
                             </div>
                             <div class="images-about">
-                                <img src="images/about/06.jpg" alt="">
+                                <img src="images/about/about_us3.jpg" alt="">
                             </div>
                         </div>
                     </div>
