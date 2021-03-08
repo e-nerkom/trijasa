@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
 use App\Models\User;
 
@@ -19,9 +20,24 @@ class AuthController extends Controller
             'email' => 'required|email',
             'password' => 'required',
         ]);
+
+        $credentials    = $request->only('email', 'password');
+        $user_check     = User::where("email",$credentials["email"])->first();
+
+        if (!$user_check) {
+            return redirect('login')->with(['status' => 'Email yang anda masukan salah.']);
+        } else {
+            $user = Auth::attempt($credentials);
+            if ($user) {
+                $user = Auth::user();
+                return redirect('/admin/dashboard');
+            } else {
+                return redirect('login')->with('status', 'Email atau Password yang anda masukan salah.');
+            }
+        }
         
 
-        dd($request);
+        
     }
 
     public function getRegister()
