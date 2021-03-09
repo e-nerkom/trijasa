@@ -36,8 +36,6 @@ class AuthController extends Controller
             }
         }
         
-
-        
     }
 
     public function getRegister()
@@ -70,5 +68,12 @@ class AuthController extends Controller
 
         return redirect('/login')->with('message', 'Pembuatan akun berhasil. Silahkan login dengan akun anda.');
     }
+
+    public function logout()
+        {
+            // Session::flush();
+            Auth::logout();
+            return redirect('/login');
+        }
 
 }
