@@ -308,19 +308,6 @@
                             </div>
                         </div>
                     </li>
-                    <li>
-                        <div class="choose-item">
-                            <div class="box-top">
-                                <div class="title">
-                                    04
-                                </div>
-                                <span>Flexibility</span>
-                            </div>
-                            <div class="box-content">
-                                <p>Lorem Ipsum ist ein einfacher Demo-Text für die Print- und Schriftindustrie. Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500</p>
-                            </div>
-                        </div>
-                    </li>
                 </ul>
             </div>
         </section>

@@ -76,16 +76,16 @@
                                     </div><!-- //mobile menu button -->
                                     <nav id="mainnav" class="mainnav">
                                         <ul class="menu">
-                                            <li class="active">
+                                            <li class=" {{ Request::is('/') ? 'active' : '' }}">
                                                 <a href="/" title="">Home</a>
                                             </li>
-                                            <li>
+                                            <li class=" {{ Request::is('tentang-kami') ? 'active' : '' }}">
                                                 <a href="/tentang-kami" title="">Tentang Kami</a>
                                             </li>
-                                            <li>
+                                            <li class=" {{ Request::is('portfolio') ? 'active' : '' }}">
                                                 <a href="/portfolio" title="">Portfolio</a>
                                             </li>
-                                            <li>
+                                            <li class=" {{ Request::is('hubungi-kami') ? 'active' : '' }}">
                                                 <a href="/hubungi-kami" title="">Hubungi Kami</a>
                                             </li>
                                         </ul><!-- /.menu -->
