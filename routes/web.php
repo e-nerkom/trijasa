@@ -37,4 +37,6 @@ Route::post('/register', [AuthController::class, 'postRegister']);
 // Dashboard
 Route::group(['middleware' => 'auth', 'prefix' => 'admin'], function() {
     Route::get('/dashboard', [DashboardController::class, 'index']);
+    Route::get('/konten/edit/{konten_id}', [DashboardController::class, 'show']);
+    Route::post('/konten/edit/{konten_id}', [DashboardController::class, 'update']);
 });
