@@ -149,7 +149,7 @@
 
                                 <ul class="sidebar-menu mt-0">
 
-                                    <li class="sidebar-menu-item {{ Request::segment(2) == 'dashboard' ? 'active' : '' }}">
+                                    <li class="sidebar-menu-item {{ Request::segment(2) == 'dashboard' || Request::segment(2) == 'konten' ? 'active' : '' }}">
                                         <a class="sidebar-menu-button" href="/admin/dashboard">
                                             <span class="sidebar-menu-icon sidebar-menu-icon--left">
                                                 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" width="22" height="22">

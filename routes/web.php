@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PagesController;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DashboardController;
 
@@ -15,12 +16,10 @@ use App\Http\Controllers\DashboardController;
 |
 */
 
-Route::get('/', function () {
-    return view('home');
-});
-Route::get('/tentang-kami', function() {
-    return view('tentang');
-});
+Route::get('/', [PagesController::class, 'index']);
+Route::get('/home', [PagesController::class, 'index']);
+Route::get('/tentang-kami', [PagesController::class, 'about']);
+
 Route::get('/portfolio', function() {
     return view('portfolio');
 });
