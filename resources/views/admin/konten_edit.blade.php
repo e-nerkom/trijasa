@@ -1,9 +1,5 @@
 @extends('admin.layout.template')
-
-
 @section('content')
-
-
     <div class="container-fluid page__container page__heading">
 
         @if (session('fail'))

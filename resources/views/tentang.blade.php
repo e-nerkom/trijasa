@@ -44,6 +44,8 @@
 						</div>
 						<div class="about-content-tab">
 							<div class="content-inner over-view">
+							
+
 								<div class="images">
 									<img src="images/about/01.jpg" alt="">
 								</div>

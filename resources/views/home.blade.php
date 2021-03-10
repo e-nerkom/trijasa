@@ -182,7 +182,7 @@
                             <h2>Tentang Trijasa</h2>
                         </div>
                         <div class="content">
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable .</p>
+                        {!! $data[2]->description !!}
                         </div>
                         <div class="bottom">
                             <div class="btn-more float-left">
@@ -221,7 +221,7 @@
 							<div class="content text-justify">
                                 <div class="visibox-content">
                                     <span class="ion-star"></span>
-                                    <p class="text-justify" style="padding-left:70px">Menjadi perusahaan yang profesional, memiliki komitmen dan integritas tinggi yang terpercaya sebagai penyedia solusi aplikasi informasi multimedia berbasis teknologi serta keamanan data berskala global sehingga memberikan manfaat yang optimal untuk perusahaan maupun umum.</p>
+                                    <div class="text-justify" style="padding-left:70px">{!! $data[0]->description !!}</div>
                                 </div>
 								
 							</div>
@@ -238,11 +238,7 @@
 								<h2>Misi Kami</h2>
 
                                 <div class="box-misi">
-                                    <ul class="text-justify">
-                                        <li>Memberikan kualitas terbaik, pelayanan yang handal, dan implementasi yang tepat dan cepat.</li>
-                                        <li>Menyediakan tim yang profesional.</li>
-                                        <li>Menjalankan Kemitraan dengan Perusahaan/Perorangan dalam memenuhi kebutuhan Barang dan Jasa dengan mengutamakan Quality, Cost dan Delivery (QCD) dalam Bidang ICT (Information Communication Technology) di Indonesia.</li>
-                                    </ul>
+                                {!! $data[1]->description !!}
                                 </div>
                                 
 							</div>
