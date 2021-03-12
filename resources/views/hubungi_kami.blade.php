@@ -27,23 +27,43 @@
 							<h2>Get in touch</h2>
 						</div>
 						<div class="flat-contact-form">
-							<form id="contactform"  method="post" action="./contact/contact-process.php" class="form-info">
+							@if (session('message'))
+								<div class="alert alert-success">
+									{{ session('message') }}
+									<button type="button" class="close" data-dismiss="alert" aria-label="Close" style="margin-top:-10px;">
+										<span aria-hidden="true">&times;</span>
+									</button>
+								</div>
+							@endif
+							@if (session('errStatus'))
+								<div class="alert alert-danger">
+									{{ session('errStatus') }}
+									<button type="button" class="close" data-dismiss="alert" aria-label="Close" style="margin-top:-10px;">
+										<span aria-hidden="true">&times;</span>
+									</button>
+								</div>
+							@endif
+							<form  method="POST" action="/hubungi-kami" class="form-info">
+								@csrf
 								<div class="field-row">
 									<div class="one-three">
-										<p class="input-info"><input type="text" name="your-name" id="name" value="" placeholder="Your name *" required></p>
+										<p class="input-info"><input type="text" name="name" value="{{ old('name') }}" placeholder="Nama anda *" required></p>
 									</div>
 									<div class="one-three">
-										<p class="input-info"><input type="email" name="your-email" id="email" value="" placeholder="Email Address *" required></p>
+										<p class="input-info"><input type="email" name="email" value="{{ old('name') }}" placeholder="Email anda *" required></p>
 									</div>
 									<div class="one-three">
-										<p class="input-info"><input type="text" name="your-phone" id="phone" value="" placeholder="Phone numbers *" required></p>
+										<p class="input-info"><input type="text" name="phone" value="{{ old('name') }}" placeholder="No Telepon *" required></p>
 									</div>
-								</div>
+									<div class="one-three" style="width:100%">
+										<p class="input-info"><input type="text" name="subject" value="{{ old('subject') }}" placeholder="Judul Pesan *" required></p>
+									</div>
+								</div>								
 								<div class="input-text">
-									<textarea id="message-contact" name="your-message" placeholder="Message *" required></textarea>
+									<textarea name="message" placeholder="Pesan anda *" required>{{ old('name') }}</textarea>
 								</div>
 								<div class="btn-submit">
-									<button type="submit">SEND MESSAGE</button>
+									<button type="submit" name="submit">Kirim Pesan</button>
 								</div>
 							</form> <!-- /.flat-form-info -->
 						</div>
