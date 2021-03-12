@@ -45,10 +45,6 @@
 						<div class="about-content-tab">
 							<div class="content-inner over-view">
 							
-
-								<div class="images">
-									<img src="images/about/01.jpg" alt="">
-								</div>
 								<div class="text-about">
 									<h3>Want to know more about Finance Consultant?</h3>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -103,7 +99,7 @@
 								<div class="we-about">
 									<div class="one-half">
 										<div class="title">
-											WE ARE
+											VISI
 										</div>
 										<ul>
 											<li><span class="ion-checkmark-round"></span>Contrary to popular belief, Lorem Ipsum is not</li>
@@ -114,7 +110,7 @@
 									</div>
 									<div class="one-half">
 										<div class="title">
-											WE DONT
+											MISI
 										</div>
 										<ul>
 											<li><span class="ion-close-round"></span>The standard chunk of Lorem Ipsum used since the 1500s</li>
