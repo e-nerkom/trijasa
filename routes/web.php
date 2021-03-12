@@ -5,6 +5,7 @@ use App\Http\Controllers\PagesController;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\AdminPortfolioController;
+use App\Http\Controllers\AdminUserController;
 
 /*
 |--------------------------------------------------------------------------
@@ -43,4 +44,6 @@ Route::group(['middleware' => 'auth', 'prefix' => 'admin'], function() {
     Route::get('/portfolio/edit/{portfolio_id}', [AdminPortfolioController::class, 'edit']);
     Route::post('/portfolio/edit/{portfolio_id}', [AdminPortfolioController::class, 'update']);
     Route::delete('/portfolio/delete/{portfolio_id}', [AdminPortfolioController::class, 'delete']);
+    Route::get('/pengguna', [AdminUserController::class, 'index']);
+    Route::delete('/pengguna/delete/{user_id}', [AdminUserController::class, 'delete']);
 });
