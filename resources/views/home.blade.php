@@ -39,7 +39,7 @@
                             data-paddingbottom="[0,0,0,0"
                             data-paddingleft="[0,0,0,0]"
 
-                            style="z-index: 16; white-space: nowrap;">Help businesses grow and innovate
+                            style="z-index: 16; white-space: nowrap;">Telekomunikasi &amp; IT
                         </div>
 
                         <!-- LAYER NR. 13 -->
@@ -64,30 +64,9 @@
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
 
-                            style="z-index: 17; white-space: nowrap;">Ipsum is simply text of the stry simply dummy text of the printing and typesetting industry. Lorem Ipsum. 
+                            style="z-index: 17; white-space: nowrap;">Sebagai penyedia Produk & Jasa Pelayanan yang mencakup Perangkat Telekomunikasi dan Jasa Telekomunikasi.
                         </div>
-
-                        <a href="#" target="_self" class="tp-caption flat-button-slider bg-blue" 
-
-                        data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
-                     
-                        data-x="['left','left','left','left']" data-hoffset="['35','35','35','15']" 
-                        data-y="['middle','middle','middle','middle']" data-voffset="['130','140','140','110']"
-                        data-fontsize="['14','14','14','14']" 
-                        data-width="['auto']"
-                        data-height="['auto']">READ MORE
-                        </a><!-- END LAYER LINK -->
-
-                        <a href="#" target="_self" class="tp-caption flat-button-slider bg-white" 
-
-                        data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
-                     
-                        data-x="['left','left','left','left']" data-hoffset="['225','225','225','205']" 
-                        data-y="['middle','middle','middle','middle']" data-voffset="['130','140','140','110']"  
-                        data-fontsize="['14',14','14','14']"
-                        data-width="['auto']"
-                        data-height="['auto']">GET IN TOUCH
-                        </a><!-- END LAYER LINK -->
+                        
                     </li>
 
                     <li data-index="rs-3049" data-transition="slideremovedown" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"    data-rotate="0"  data-saveperformance="off"  data-title="Ken Burns" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">     <div class="overlay-black"></div>
@@ -119,7 +98,7 @@
                             data-paddingbottom="[0,0,0,0"
                             data-paddingleft="[0,0,0,0]"
 
-                            style="z-index: 16; white-space: nowrap;">We help businesses grow and innovate
+                            style="z-index: 16; white-space: nowrap;">Sistem Integrator
                         </div>
 
                         <!-- LAYER NR. 13 -->
@@ -144,30 +123,9 @@
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
 
-                            style="z-index: 17; white-space: nowrap;">Ipsum is simply text of the stry simply dummy text of the printing and typesetting industry. Lorem Ipsum. 
+                            style="z-index: 17; white-space: nowrap;">Perencanaan, perancangan, dan analisa sistem perangkat lunak berbasis Website atau Mobile.
                         </div>
-
-                        <a href="#" target="_self" class="tp-caption flat-button-slider bg-blue" 
-
-                        data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
-                     
-                        data-x="['left','left','left','left']" data-hoffset="['35','35','35','15']" 
-                        data-y="['middle','middle','middle','middle']" data-voffset="['130','140','140','110']"
-                        data-fontsize="['14','14','14','14']" 
-                        data-width="['auto']"
-                        data-height="['auto']">READ MORE
-                        </a><!-- END LAYER LINK -->
-
-                        <a href="#" target="_self" class="tp-caption flat-button-slider bg-white" 
-
-                        data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
-                     
-                        data-x="['left','left','left','left']" data-hoffset="['225','225','225','205']" 
-                        data-y="['middle','middle','middle','middle']" data-voffset="['130','140','140','110']"  
-                        data-fontsize="['14',14','14','14']"
-                        data-width="['auto']"
-                        data-height="['auto']">GET IN TOUCH
-                        </a><!-- END LAYER LINK -->
+                        
                     </li>
 
                 </ul>
@@ -186,7 +144,7 @@
                         </div>
                         <div class="bottom">
                             <div class="btn-more float-left">
-                               <a href="#" title="">Selengkapnya</a>
+                               <a href="/about" title="">Selengkapnya</a>
                             </div>
                             <div class="btn-download float-right">
                                <a href="#" title="">Download Company Profile</a>

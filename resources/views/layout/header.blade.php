@@ -10,7 +10,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div id="logo" class="logo">
                             <a href="#" title="">
-                                <img src="logo.png" alt="logo Finance Business" style="width:85px;">
+                                <img src="logo.png" alt="logo Finance Business" style="width:65px;">
                             </a>
                         </div><!-- /#logo -->
                     </div>

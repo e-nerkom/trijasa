@@ -19,4 +19,9 @@ class PagesController extends Controller
         return view('tentang', compact('data'));
     }
 
+    public function portfolio()
+    {
+        return view('portfolio');
+    }
+
 }

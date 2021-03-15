@@ -175,7 +175,7 @@
                                         </a>
                                     </li>
 
-                                    <li class="sidebar-menu-item">
+                                    <li class="sidebar-menu-item {{ Request::segment(2) == 'pengguna' ? 'active' : '' }}">
                                         <a class="sidebar-menu-button" href="/admin/pengguna">
                                             <span class="sidebar-menu-icon sidebar-menu-icon--left">
                                                 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" width="22" height="22">

@@ -22,6 +22,7 @@ use App\Http\Controllers\ContactController;
 Route::get('/', [PagesController::class, 'index']);
 Route::get('/home', [PagesController::class, 'index']);
 Route::get('/tentang-kami', [PagesController::class, 'about']);
+Route::get('/portfolio', [PagesController::class, 'portfolio']);
 Route::get('/hubungi-kami', [ContactController::class, 'index']);
 Route::post('/hubungi-kami', [ContactController::class, 'send']);
 

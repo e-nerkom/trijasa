@@ -10,7 +10,7 @@
 								<h1 class="h1-title">Cases</h1>
 							</div><!-- /.page-title-heading -->
 							<ul class="breadcrumbs">
-								<li><a href="#" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+								<li><a href="/" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 								<li>Cases</li>
 							</ul><!-- /.breadcrumbs -->
 						</div>
@@ -64,7 +64,7 @@
 											</ul>
 											<div>
 												<h5>
-													<a href="#" title="">There are now a set of mock banners available here</a>
+													<a href="#" title="">There are now a set of mock banners available</a>
 												</h5>
 											</div>
 										</div>

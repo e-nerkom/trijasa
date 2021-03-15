@@ -10,7 +10,7 @@
 								<h1 class="h1-title">Contact Us</h1>
 							</div><!-- /.page-title-heading -->
 							<ul class="breadcrumbs">
-								<li><a href="#" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+								<li><a href="/" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 								<li>Contact Us</li>
 							</ul><!-- /.breadcrumbs -->
 						</div>
