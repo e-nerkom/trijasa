@@ -36,7 +36,7 @@
                         </div>
                         <div class="form-group col-md-12">
                             <label for="exampleInputPassword1">Deskripsi:</label>
-                            <textarea name="description" id="editor">
+                            <textarea id="summernote" name="description">
                                 {{ old('description') }}
                             </textarea>
                             @if ($errors->has('description'))
@@ -56,11 +56,9 @@
     </div>
 
     <script>
-        ClassicEditor
-            .create( document.querySelector( '#editor' ) )
-            .catch( error => {
-                console.error( error );
-            } );
+        $(document).ready(function() {
+            $('#summernote').summernote();
+        });
     </script>
 
 

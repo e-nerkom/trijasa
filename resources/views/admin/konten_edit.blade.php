@@ -21,7 +21,7 @@
                     </div>
                     <div class="form-group">
                         <label for="exampleInputPassword1">Deskripsi:</label>
-                        <textarea name="description" id="editor">
+                        <textarea id="summernote" name="description">
                             {{ $data->description }}
                         </textarea>
                     </div>
@@ -33,11 +33,9 @@
     </div>
 
     <script>
-        ClassicEditor
-            .create( document.querySelector( '#editor' ) )
-            .catch( error => {
-                console.error( error );
-            } );
+        $(document).ready(function() {
+            $('#summernote').summernote();
+        });
     </script>
 
 

@@ -29,10 +29,12 @@
     <link type="text/css" href="/admin/assets/css/vendor-ion-rangeslider.css" rel="stylesheet">
     <link type="text/css" href="/admin/assets/css/vendor-ion-rangeslider.rtl.css" rel="stylesheet">
 
-    <!-- CK Editor -->
-    <script src="https://cdn.ckeditor.com/ckeditor5/26.0.0/classic/ckeditor.js"></script>
+    <!-- jQuery -->
+    <script src="/admin/assets/vendor/jquery.min.js"></script>
 
-
+    <!-- include summernote css/js -->
+    <link href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.js"></script>
 
 
 </head>
@@ -206,8 +208,7 @@
 
     
 
-    <!-- jQuery -->
-    <script src="/admin/assets/vendor/jquery.min.js"></script>
+    
 
     <!-- Bootstrap -->
     <script src="/admin/assets/vendor/popper.min.js"></script>
