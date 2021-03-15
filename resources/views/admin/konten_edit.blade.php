@@ -25,7 +25,7 @@
                             {{ $data->description }}
                         </textarea>
                     </div>
-                    <input type="submit" name="submit" value="Submit" class="btn btn-primary">
+                    <input type="submit" name="submit" value="Simpan Perubahan" class="btn btn-primary">
                 </form>
             </div>
         </div>
@@ -34,7 +34,11 @@
 
     <script>
         $(document).ready(function() {
-            $('#summernote').summernote();
+            $('#summernote').summernote({
+                placeholder: 'Hello Bootstrap 4',
+                tabsize: 2,
+                height: 250
+            });
         });
     </script>
 
