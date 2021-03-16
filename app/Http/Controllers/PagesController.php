@@ -26,7 +26,8 @@ class PagesController extends Controller
 
     public function downloadCompro()
     {
-        $file = public_path() . '/company_profile/trijasa_company_profile.pdf';
+        $download_path = 'company_profile/';
+        $file = $download_path.'trijasa_company_profile.pdf';
         return response()->download($file, 'trijasa_company_profile.pdf');
     }
 
