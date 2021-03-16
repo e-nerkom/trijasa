@@ -27,11 +27,11 @@
 							<div class="widget-nav-tab">
 								<h3>About our company</h3>
 								<ul class="tab-about">
-									<li class="active">Tentang Kami</li>
-									<li>Apa yang kami kerjakan</li>
-									<li>Anggota Team</li>
-									<li>Partner Kami</li>
-									<li>Hubungi Kami</li>
+									<li class="active">About Us</li>
+									<li>Partnership</li>
+									<li>Company Experience</li>
+									<li>Our Team</li>
+									<li>Contact Us</li>
 								</ul>
 							</div>
 							<div class="widget-brochures">

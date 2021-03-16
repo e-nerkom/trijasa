@@ -4,7 +4,7 @@
 			<div style="text-align:center">
 				<div style="text-align:justify;">
 					<p style="font-size:14px;line-height:10px">Halo Zaki,</p>
-					<p style="font-size:14px;line-height:1px;margin: 5px 0;">Terima kasih telah menghubungi PT Trijaya.</p>
+					<p style="font-size:14px;line-height:1px;margin: 5px 0;">Terima kasih telah menghubungi PT Trijasa.</p>
 					<br>
 					<p style="font-size:14px;line-height:20px;margin: 5px 0;">Kami sudah menerima email anda dan akan membalas email anda secepatnya di jam kerja 9:00 - 17:00. Apabila ada pertanyaan lainnya silahkan balas email ini. Kami dengan senang hati akan membalasnya.</p>
 					<p style="font-size:14px;line-height:30px;margin: 5px 0;">Terima kasih</p>

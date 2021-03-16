@@ -24,4 +24,10 @@ class PagesController extends Controller
         return view('portfolio');
     }
 
+    public function downloadCompro()
+    {
+        $file = public_path() . '/company_profile/trijasa_company_profile.pdf';
+        return response()->download($file, 'trijasa_company_profile.pdf');
+    }
+
 }

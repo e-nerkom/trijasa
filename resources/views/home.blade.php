@@ -137,17 +137,17 @@
                 <div class="row">
                     <div class="about-us style3">
                         <div class="flat-title style1">
-                            <h2>Tentang Trijasa</h2>
+                            <h2>About Trijasa</h2>
                         </div>
                         <div class="content">
                         {!! $data[2]->description !!}
                         </div>
                         <div class="bottom">
-                            <div class="btn-more float-left">
-                               <a href="/about" title="">Selengkapnya</a>
+                            <div class="btn-more float-left btn-about-us">
+                               <a href="/about-us" title="">Read More</a>
                             </div>
-                            <div class="btn-download float-right">
-                               <a href="#" title="">Download Company Profile</a>
+                            <div class="btn-download float-right btn-download-cp">
+                               <a href="/download-company-profile" title="">Download Company Profile</a>
                             </div>
                         </div>
                     </div>
@@ -215,9 +215,9 @@
                         <h2>Trijasa</h2>
                     </div>
                     <ul class="pt-4">
-                        <li>Melayani setiap kebutuhan</li>
+                        <li>System Integrator</li>
                         <li>Membangun bangsa</li>
-                        <li>Lorem Ipsum ist in der Industrie bereits der</li>
+                        <li>Consultancy Services</li>
                     </ul>
                 </div>
             </div>
@@ -229,10 +229,10 @@
                                 <div class="title">
                                     01
                                 </div>
-                                <span>Kerjasama yang baik</span>
+                                <span>System Integrator</span>
                             </div>
                             <div class="box-content">
-                                <p>Membangun kemitraan yang solid dan berintegritas tinggi.</p>
+                                <p>A Company which focus in IT System Integrator, that provides Trijasa customer an end-to-end solution.</p>
                             </div>
                         </div>
                     </li>
@@ -242,10 +242,10 @@
                                 <div class="title">
                                     02
                                 </div>
-                                <span>Solusi handal</span>
+                                <span>Application Software</span>
                             </div>
                             <div class="box-content">
-                                <p>Memberikan solusi tepat dalam menyelesaikan suatu pekerjaan.</p>
+                                <p>Application Software, Data Management, Hardware Infrastructure, Security System and Process Management. </p>
                             </div>
                         </div>
                     </li>
@@ -255,10 +255,10 @@
                                 <div class="title">
                                     03
                                 </div>
-                                <span>Strategi kreatif</span>
+                                <span>Consultancy Services</span>
                             </div>
                             <div class="box-content">
-                                <p>Meningkatkan produktivitas dengan strategi terbaik.</p>
+                                <p>Consultancy Services,Implementation, Technical Support, Outsourcing and Managed Service</p>
                             </div>
                         </div>
                     </li>

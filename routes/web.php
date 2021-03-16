@@ -21,10 +21,11 @@ use App\Http\Controllers\ContactController;
 
 Route::get('/', [PagesController::class, 'index']);
 Route::get('/home', [PagesController::class, 'index']);
-Route::get('/tentang-kami', [PagesController::class, 'about']);
-Route::get('/portfolio', [PagesController::class, 'portfolio']);
-Route::get('/hubungi-kami', [ContactController::class, 'index']);
-Route::post('/hubungi-kami', [ContactController::class, 'send']);
+Route::get('/about-us', [PagesController::class, 'about']);
+Route::get('/our-projects', [PagesController::class, 'portfolio']);
+Route::get('/contact-us', [ContactController::class, 'index']);
+Route::post('/contact-us', [ContactController::class, 'send']);
+Route::get('/download-company-profile', [PagesController::class, 'downloadCompro']);
 
 // Authenticate
 Route::get('/login', [AuthController::class, 'getLogin'])->name('login');

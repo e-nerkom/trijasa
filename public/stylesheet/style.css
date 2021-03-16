@@ -2923,3 +2923,22 @@ article.main-single .direction ul li a:hover {
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
+
+@media (max-width: 381px) {
+	.btn-about-us {
+		width: 100%;
+	}
+	.btn-about-us a {
+		width: 100%;
+    	text-align: center;
+	}
+	.btn-download-cp {
+		width: 100%;
+		margin-top: 0 !important;
+    	text-align: center !important;
+	}
+	.btn-download-cp a {
+		text-align: center;
+	}
+
+}

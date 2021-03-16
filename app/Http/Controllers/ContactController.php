@@ -32,9 +32,9 @@ class ContactController extends Controller
             );
         } catch(\Exception $e) {
             dd($e);
-            return redirect('/hubungi-kami')->with('errStatus', 'Messages failed to sent. Please try again later...');
+            return redirect('/contact-us')->with('errStatus', 'Messages failed to sent. Please try again later...');
         }
 
-    	return redirect('/hubungi-kami')->with('message', 'Thanks for contact with us. We will contact you shortly.');
+    	return redirect('/contact-us')->with('message', 'Thanks for contact with us. We will contact you shortly.');
     }
 }

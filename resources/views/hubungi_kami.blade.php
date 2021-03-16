@@ -43,7 +43,7 @@
 									</button>
 								</div>
 							@endif
-							<form  method="POST" action="/hubungi-kami" class="form-info">
+							<form  method="POST" action="/contact-us" class="form-info">
 								@csrf
 								<div class="field-row">
 									<div class="one-three">
@@ -63,7 +63,7 @@
 									<textarea name="message" placeholder="Pesan anda *" required>{{ old('name') }}</textarea>
 								</div>
 								<div class="btn-submit">
-									<button type="submit" name="submit">Kirim Pesan</button>
+									<button type="submit" name="submit">Send Now</button>
 								</div>
 							</form> <!-- /.flat-form-info -->
 						</div>
@@ -71,13 +71,5 @@
 				</div><!-- /.row -->
 			</div><!-- /.container -->
 		</section><!-- /.flat-row-iconbox -->  
-
-		<!-- map -->
-        <section class="flat-row pdmap">
-			<div class="flat-maps" data-address="Cornwall, Vermont, Hoa Kỳ" data-height="500" data-images="images/map/map-1.png" data-name="Themesflat Map"></div>
-            <div class="gm-map">	            
-                <div class="map"></div>                        
-            </div>
-        </section>
 
 @endsection

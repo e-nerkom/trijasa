@@ -4390,8 +4390,8 @@ ul.filter-wrap li:hover {
 }
 
 #slider ul.slides li .choose-item {
-    border-right: 1px solid #18ba60;
-    padding-right: 25px;
+    /* border-right: 1px solid #18ba60;
+    padding-right: 25px; */
 }
 
 #slider .flex-direction-nav a {
