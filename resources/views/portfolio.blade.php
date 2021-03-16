@@ -1,17 +1,17 @@
 @extends('layout/template') 
 @section('content')
 		
-		<div class="page-title parallax parallax2">
+		<div class="page-title">
 			<div class="title-heading">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
 							<div class="page-title-heading">
-								<h1 class="h1-title">Cases</h1>
+								<h1 class="h1-title">Our Projects</h1>
 							</div><!-- /.page-title-heading -->
 							<ul class="breadcrumbs">
 								<li><a href="/" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-								<li>Cases</li>
+								<li>Our Projects</li>
 							</ul><!-- /.breadcrumbs -->
 						</div>
 					</div>

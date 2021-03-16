@@ -1,7 +1,7 @@
 @extends('layout/template') 
 @section('content')
 		
-		<div class="page-title parallax parallax2">
+		<div class="page-title">
 			<div class="title-heading">
 				<div class="container">
 					<div class="row">
@@ -37,7 +37,7 @@
 							<div class="widget-brochures">
 								<ul class="download">
 									<li class="pdf">
-										<a href="#" title="">Company Profile.pdf</a>
+										<a href="/download-company-profile" title="">Company Profile.pdf</a>
 									</li>
 								</ul>
 							</div>
