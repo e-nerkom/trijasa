@@ -680,8 +680,8 @@ ul.flat-social li {
 }
 
 .header-top .logo {
-	margin-top: 10px;
-	margin-bottom: 5px;
+	margin-top: 15px;
+	margin-bottom: 8px;
 }
 
 .header-top .btn-contact {
@@ -1131,7 +1131,7 @@ ul.flat-social li {
 .page-title {
 	height: 333px;
 	position: relative;
-	background-image: url('../images/parallax/03.jpg');
+	background-image: url('../images/03.jpg');
 }
 
 .page-title.style1 {
@@ -2922,4 +2922,23 @@ article.main-single .direction ul li a:hover {
     -ms-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
+}
+
+@media (max-width: 381px) {
+	.btn-about-us {
+		width: 100%;
+	}
+	.btn-about-us a {
+		width: 100%;
+    	text-align: center;
+	}
+	.btn-download-cp {
+		width: 100%;
+		margin-top: 0 !important;
+    	text-align: center !important;
+	}
+	.btn-download-cp a {
+		text-align: center;
+	}
+
 }

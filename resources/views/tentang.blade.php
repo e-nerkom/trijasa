@@ -1,7 +1,7 @@
 @extends('layout/template') 
 @section('content')
 		
-		<div class="page-title parallax parallax2">
+		<div class="page-title">
 			<div class="title-heading">
 				<div class="container">
 					<div class="row">
@@ -10,7 +10,7 @@
 								<h1 class="h1-title">About Us</h1>
 							</div><!-- /.page-title-heading -->
 							<ul class="breadcrumbs">
-								<li><a href="#" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+								<li><a href="/" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 								<li>About Us</li>
 							</ul><!-- /.breadcrumbs -->
 						</div>
@@ -27,17 +27,17 @@
 							<div class="widget-nav-tab">
 								<h3>About our company</h3>
 								<ul class="tab-about">
-									<li class="active">Tentang Kami</li>
-									<li>Apa yang kami kerjakan</li>
-									<li>Anggota Team</li>
-									<li>Partner Kami</li>
-									<li>Hubungi Kami</li>
+									<li class="active">About Us</li>
+									<li>Partnership</li>
+									<li>Company Experience</li>
+									<li>Our Team</li>
+									<li>Contact Us</li>
 								</ul>
 							</div>
 							<div class="widget-brochures">
 								<ul class="download">
 									<li class="pdf">
-										<a href="#" title="">Company Profile.pdf</a>
+										<a href="/download-company-profile" title="">Company Profile.pdf</a>
 									</li>
 								</ul>
 							</div>

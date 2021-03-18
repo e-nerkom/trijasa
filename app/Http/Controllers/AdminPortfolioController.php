@@ -28,12 +28,9 @@ class AdminPortfolioController extends Controller
 
         if ($request->hasFile('file')) {
             $ext = $request->file('file')->extension(); 
-            // if (preg_match('/^(?!jpg$|png$|jpeg$)[^.]+$/', $ext)) {
-            //     return Redirect::back()->with('fail', 'Portfolio image file can only be jpg or png');
-            // }
-            
             $new_file = time().'.'.$ext;
-            $request->file('file')->move(public_path('images/portfolio'), $new_file);  
+            $upload_path = 'images/portfolio/';
+            $request->file('file')->move($upload_path, $new_file);
             
             Portfolio::create([
                 'path' => $new_file,
@@ -71,7 +68,8 @@ class AdminPortfolioController extends Controller
         if ($request->hasFile('file')) {
             $ext = $request->file('file')->extension();            
             $new_file = time().'.'.$ext;
-            $request->file('file')->move(public_path('images/portfolio'), $new_file);
+            $upload_path = 'images/portfolio/';
+            $request->file('file')->move($upload_path, $new_file);
 
             Portfolio::where('id', $id)
                     ->update([
