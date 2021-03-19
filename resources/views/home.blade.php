@@ -174,7 +174,7 @@
 					<div class="col-md-6">
 						<div class="about-us style2">
 							<div class="flat-title style1">
-								<h2>Visi kami</h2>
+								<h2>Our Vision</h2>
 							</div>
 							<div class="content text-justify">
                                 <div class="visibox-content">
@@ -193,7 +193,7 @@
 					<div class="col-md-6">
 						<div class="flat-clients">
 							<div class="flat-title style1">
-								<h2>Misi Kami</h2>
+								<h2>Our Mission</h2>
 
                                 <div class="box-misi">
                                 {!! $data[1]->description !!}
@@ -216,7 +216,7 @@
                     </div>
                     <ul class="pt-4">
                         <li>System Integrator</li>
-                        <li>Membangun bangsa</li>
+                        <li>Application Software</li>
                         <li>Consultancy Services</li>
                     </ul>
                 </div>

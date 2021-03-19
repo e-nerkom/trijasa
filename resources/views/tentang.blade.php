@@ -44,86 +44,42 @@
 						</div>
 						<div class="about-content-tab">
 							<div class="content-inner over-view">
-							
 
-								<div class="images">
-									<img src="images/about/01.jpg" alt="">
-								</div>
 								<div class="text-about">
-									<h3>Want to know more about Finance Consultant?</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-								</div>
-								<div class="text-about">
-									<h3>A Global Organization</h3>
-									<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima.</p>
-								</div>
-								<div class="wrap-imagebox">
-									<div class="one-three">
-										<div class="imagebox style2">
-											<div class="imagebox-image">
-												<img src="images/imagebox/04.jpg" alt="">
+									{!! $data[4]->description !!}						
+								</div>								
+								
+								<div class="text-justify">
+									<div class="row">
+										<div class="col-md-6">
+											<div class="about-us style2">
+												<div class="flat-title style1">
+													<h3 class="mb-3">Our Vision</h3>
+												</div>
+												<div class="content text-justify">
+													<div class="visibox-content">
+														<span class="ion-star"></span>
+														<div class="text-justify" style="padding-left:70px">{!! $data[0]->description !!}</div>
+													</div>
+													
+												</div>
 											</div>
-											<div class="imagebox-content">
-												<span class="ion-paper-airplane"></span>
-												<h3><a href="#" title="">Our Mission</a></h3>
-												<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</p>
+										</div>
+										<div class="col-md-6">
+											<div class="flat-clients">
+												<div class="flat-title style1">
+													<h3 class="mb-3">Our Mission</h3>
+
+													<div class="box-misi">
+													{!! $data[1]->description !!}
+													</div>
+													
+												</div>
+												
 											</div>
 										</div>
 									</div>
-									<div class="one-three">
-										<div class="imagebox style2">
-											<div class="imagebox-image">
-												<img src="images/imagebox/05.jpg" alt="">
-											</div>
-											<div class="imagebox-content">
-												<span class="ion-star"></span>
-												<h3><a href="#" title="">Our Vision</a></h3>
-												<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</p>
-											</div>
-										</div>
-									</div>
-									<div class="one-three">
-										<div class="imagebox style2">
-											<div class="imagebox-image">
-												<img src="images/imagebox/06.jpg" alt="">
-											</div>
-											<div class="imagebox-content">
-												<span class="ion-heart"></span>
-												<h3><a href="#" title="">We love ideas</a></h3>
-												<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</p>
-											</div>
-										</div>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="text-about">
-									<h3>Start with a small service</h3>
-									<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
-								</div>
-								<div class="we-about">
-									<div class="one-half">
-										<div class="title">
-											WE ARE
-										</div>
-										<ul>
-											<li><span class="ion-checkmark-round"></span>Contrary to popular belief, Lorem Ipsum is not</li>
-											<li><span class="ion-checkmark-round"></span>It has roots in a piece of classical Latin literature</li>
-											<li><span class="ion-checkmark-round"></span>Making it over 2000 years old. Richard McClintock</li>
-											<li><span class="ion-checkmark-round"></span>Professor at Hampden-Sydney College in Virginia</li>
-										</ul>
-									</div>
-									<div class="one-half">
-										<div class="title">
-											WE DONT
-										</div>
-										<ul>
-											<li><span class="ion-close-round"></span>The standard chunk of Lorem Ipsum used since the 1500s</li>
-											<li><span class="ion-close-round"></span>Reproduced below for those interested. Sections 1.10.32</li>
-											<li><span class="ion-close-round"></span>And 1.10.33 from "de Finibus Bonorum et Malorum"</li>
-											<li><span class="ion-close-round"></span>Reproduced in their exact original form, accompanied</li>
-										</ul>
-									</div>
-									<div class="clearfix"></div>
+									
 								</div>
 							</div>
 							<div class="content-inner history">
