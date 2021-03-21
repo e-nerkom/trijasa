@@ -550,6 +550,11 @@ h5 { font-size: 14px;}
 	content: "\f0e0";
 }
 
+.partner-padding {
+	background-color: #f7f7f7;
+    padding: 10px 20px;
+}
+
 /* Flat Social */
 ul.flat-social {
 	float: right;

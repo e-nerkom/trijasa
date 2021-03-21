@@ -266,4 +266,63 @@
             </div>
         </section>
 
+        <section class="flat-partner style2 scroll">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul class="owl-carousel-10">
+                            <li>
+                                <img src="images/partnership/airmas.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/big_switch.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/cisco.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/dell.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/fortinet.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/hitachi.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/hp.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/huawei.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/juniper.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/mbiz.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/metrodata.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/paloalto.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/sophos.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/tplink.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/transitions.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/vmware.png" alt="">
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
 @endsection

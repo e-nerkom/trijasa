@@ -4009,6 +4009,7 @@ ul.filter-wrap li:hover {
     text-align: center;
     max-width: 100%;
     background-color: #f9f9f9;
+    padding: 0 20px;
 }
 
 .owl-carousel-10 .owl-item li img {
