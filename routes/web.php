@@ -6,6 +6,7 @@ use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\AdminPortfolioController;
 use App\Http\Controllers\AdminUserController;
+use App\Http\Controllers\ContactController;
 
 /*
 |--------------------------------------------------------------------------
@@ -20,11 +21,11 @@ use App\Http\Controllers\AdminUserController;
 
 Route::get('/', [PagesController::class, 'index']);
 Route::get('/home', [PagesController::class, 'index']);
-Route::get('/tentang-kami', [PagesController::class, 'about']);
-
-Route::get('/hubungi-kami', function() {
-    return view('hubungi_kami');
-});
+Route::get('/about-us', [PagesController::class, 'about']);
+Route::get('/our-projects', [PagesController::class, 'portfolio']);
+Route::get('/contact-us', [ContactController::class, 'index']);
+Route::post('/contact-us', [ContactController::class, 'send']);
+Route::get('/download-company-profile', [PagesController::class, 'downloadCompro']);
 
 // Authenticate
 Route::get('/login', [AuthController::class, 'getLogin'])->name('login');

@@ -29,10 +29,12 @@
     <link type="text/css" href="/admin/assets/css/vendor-ion-rangeslider.css" rel="stylesheet">
     <link type="text/css" href="/admin/assets/css/vendor-ion-rangeslider.rtl.css" rel="stylesheet">
 
-    <!-- CK Editor -->
-    <script src="https://cdn.ckeditor.com/ckeditor5/26.0.0/classic/ckeditor.js"></script>
+    <!-- jQuery -->
+    <script src="/admin/assets/vendor/jquery.min.js"></script>
 
-
+    <!-- include summernote css/js -->
+    <link href="/admin/assets/vendor/summernote/summernote.min.css" rel="stylesheet">
+    <script src="/admin/assets/vendor/summernote/summernote.min.js"></script>
 
 
 </head>
@@ -175,7 +177,7 @@
                                         </a>
                                     </li>
 
-                                    <li class="sidebar-menu-item">
+                                    <li class="sidebar-menu-item {{ Request::segment(2) == 'pengguna' ? 'active' : '' }}">
                                         <a class="sidebar-menu-button" href="/admin/pengguna">
                                             <span class="sidebar-menu-icon sidebar-menu-icon--left">
                                                 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" width="22" height="22">
@@ -206,8 +208,7 @@
 
     
 
-    <!-- jQuery -->
-    <script src="/admin/assets/vendor/jquery.min.js"></script>
+    
 
     <!-- Bootstrap -->
     <script src="/admin/assets/vendor/popper.min.js"></script>
