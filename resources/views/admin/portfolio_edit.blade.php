@@ -37,7 +37,7 @@
                         </div>
                         <div class="form-group col-md-12">
                             <label for="exampleInputPassword1">Deskripsi:</label>
-                            <textarea name="description" id="editor">
+                            <textarea id="summernote" name="description">
                                 {{ $data->description }}
                             </textarea>
                             @if ($errors->has('description'))
@@ -45,7 +45,7 @@
                             @endif
                         </div>
                         <div class="form-group col-md-12">
-                            <input type="submit" name="submit" value="Tambah Portfolio" class="btn btn-primary float-right">
+                            <input type="submit" name="submit" value="Simpan Perubahan" class="btn btn-primary float-right">
                         </div>
                         
                     </div>
@@ -57,11 +57,13 @@
     </div>
 
     <script>
-        ClassicEditor
-            .create( document.querySelector( '#editor' ) )
-            .catch( error => {
-                console.error( error );
-            } );
+        $(document).ready(function() {
+            $('#summernote').summernote({
+                placeholder: 'Hello Bootstrap 4',
+                tabsize: 2,
+                height: 250
+            });
+        });
     </script>
 
 

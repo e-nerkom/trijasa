@@ -19,4 +19,16 @@ class PagesController extends Controller
         return view('tentang', compact('data'));
     }
 
+    public function portfolio()
+    {
+        return view('portfolio');
+    }
+
+    public function downloadCompro()
+    {
+        $download_path = 'company_profile/';
+        $file = $download_path.'trijasa_company_profile.pdf';
+        return response()->download($file, 'trijasa_company_profile.pdf');
+    }
+
 }

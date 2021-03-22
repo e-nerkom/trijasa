@@ -7,43 +7,43 @@
 		<div class="header-top">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-3 col-sm-6">
+                    <div class="col-lg-3 col-sm-6 col-6">
                         <div id="logo" class="logo">
                             <a href="#" title="">
-                                <img src="logo.png" alt="logo Finance Business" style="width:85px;">
+                                <img src="logo.png" alt="logo Finance Business" style="width:65px;">
                             </a>
                         </div><!-- /#logo -->
                     </div>
-                    <div class="col-lg-3 col-sm-6">
+                    <div class="col-lg-3 col-sm-6 col-6">
                         <div class="iconbox style2 v2">
                             <div class="iconbox-icon">
-                                <i class="fa fa-paper-plane-o"></i>
+                                <i class="fa fa-phone"></i>
                             </div>
                             <div class="iconbox-content">
-                                <h4>+61 3 8376 6284</h4>
-                                <p>themesflat@gmail.com</p>
+                                <h4>+62-22 7319408</h4>
+                                <p>Fax : +62-22 7319408</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6">
+                    <div class="col-lg-3 col-sm-6 col-6">
                         <div class="iconbox style2 v2">
                             <div class="iconbox-icon">
                                 <i class="fa fa-map-marker"></i>
                             </div>
                             <div class="iconbox-content">
-                                <h4>4946 Marmora Road,</h4>
-                                <p>Central New, UK</p>
+                                <h4>Graha Beunteur,</h4>
+                                <p>Jl. Beunteur No.1, Buah Batu, Bandung</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6">
+                    <div class="col-lg-3 col-sm-6 col-6">
                         <div class="iconbox style2 v2">
                             <div class="iconbox-icon">
-                                <i class="fa fa-clock-o"></i>
+                                <i class="fa fa-envelope-o"></i>
                             </div>
                             <div class="iconbox-content">
-                                <h4>Mon - Sat: 8 am - 5 pm</h4>
-                                <p>Sunday: CLOSED</p>
+                                <h4>info@pt-trijasa.com</h4>
+                                <p>Keep in touch</p>
                             </div>
                         </div>
                     </div>
@@ -79,14 +79,14 @@
                                             <li class=" {{ Request::is('/') ? 'active' : '' }}">
                                                 <a href="/" title="">Home</a>
                                             </li>
-                                            <li class=" {{ Request::is('tentang-kami') ? 'active' : '' }}">
-                                                <a href="/tentang-kami" title="">Tentang Kami</a>
+                                            <li class=" {{ Request::is('about-us') ? 'active' : '' }}">
+                                                <a href="/about-us" title="">About Us</a>
                                             </li>
-                                            <li class=" {{ Request::is('portfolio') ? 'active' : '' }}">
-                                                <a href="/portfolio" title="">Portfolio</a>
+                                            <li class=" {{ Request::is('our-projects') ? 'active' : '' }}">
+                                                <a href="/our-projects" title="">Our Projects</a>
                                             </li>
-                                            <li class=" {{ Request::is('hubungi-kami') ? 'active' : '' }}">
-                                                <a href="/hubungi-kami" title="">Hubungi Kami</a>
+                                            <li class=" {{ Request::is('contact-us') ? 'active' : '' }}">
+                                                <a href="/contact-us" title="">Contact Us</a>
                                             </li>
                                         </ul><!-- /.menu -->
                                     </nav><!-- /#mainnav -->

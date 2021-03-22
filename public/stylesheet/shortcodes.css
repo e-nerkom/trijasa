@@ -2101,7 +2101,7 @@
     background-color: transparent;
 }
 .about-us.style2 .content p {
-    text-align: left;
+    text-align: justify;
 }
 .about-us.style2 .bottom {
     text-align: right;
@@ -4009,6 +4009,7 @@ ul.filter-wrap li:hover {
     text-align: center;
     max-width: 100%;
     background-color: #f9f9f9;
+    padding: 0 20px;
 }
 
 .owl-carousel-10 .owl-item li img {
@@ -4390,8 +4391,8 @@ ul.filter-wrap li:hover {
 }
 
 #slider ul.slides li .choose-item {
-    border-right: 1px solid #18ba60;
-    padding-right: 25px;
+    /* border-right: 1px solid #18ba60;
+    padding-right: 25px; */
 }
 
 #slider .flex-direction-nav a {

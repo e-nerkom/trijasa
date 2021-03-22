@@ -21,11 +21,11 @@
                     </div>
                     <div class="form-group">
                         <label for="exampleInputPassword1">Deskripsi:</label>
-                        <textarea name="description" id="editor">
+                        <textarea id="summernote" name="description">
                             {{ $data->description }}
                         </textarea>
                     </div>
-                    <input type="submit" name="submit" value="Submit" class="btn btn-primary">
+                    <input type="submit" name="submit" value="Simpan Perubahan" class="btn btn-primary">
                 </form>
             </div>
         </div>
@@ -33,11 +33,13 @@
     </div>
 
     <script>
-        ClassicEditor
-            .create( document.querySelector( '#editor' ) )
-            .catch( error => {
-                console.error( error );
-            } );
+        $(document).ready(function() {
+            $('#summernote').summernote({
+                placeholder: 'Hello Bootstrap 4',
+                tabsize: 2,
+                height: 250
+            });
+        });
     </script>
 
 

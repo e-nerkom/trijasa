@@ -39,7 +39,7 @@
                             data-paddingbottom="[0,0,0,0"
                             data-paddingleft="[0,0,0,0]"
 
-                            style="z-index: 16; white-space: nowrap;">Help businesses grow and innovate
+                            style="z-index: 16; white-space: nowrap;">Telekomunikasi &amp; IT
                         </div>
 
                         <!-- LAYER NR. 13 -->
@@ -64,30 +64,9 @@
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
 
-                            style="z-index: 17; white-space: nowrap;">Ipsum is simply text of the stry simply dummy text of the printing and typesetting industry. Lorem Ipsum. 
+                            style="z-index: 17; white-space: nowrap;">Sebagai penyedia Produk & Jasa Pelayanan yang mencakup Perangkat Telekomunikasi dan Jasa Telekomunikasi.
                         </div>
-
-                        <a href="#" target="_self" class="tp-caption flat-button-slider bg-blue" 
-
-                        data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
-                     
-                        data-x="['left','left','left','left']" data-hoffset="['35','35','35','15']" 
-                        data-y="['middle','middle','middle','middle']" data-voffset="['130','140','140','110']"
-                        data-fontsize="['14','14','14','14']" 
-                        data-width="['auto']"
-                        data-height="['auto']">READ MORE
-                        </a><!-- END LAYER LINK -->
-
-                        <a href="#" target="_self" class="tp-caption flat-button-slider bg-white" 
-
-                        data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
-                     
-                        data-x="['left','left','left','left']" data-hoffset="['225','225','225','205']" 
-                        data-y="['middle','middle','middle','middle']" data-voffset="['130','140','140','110']"  
-                        data-fontsize="['14',14','14','14']"
-                        data-width="['auto']"
-                        data-height="['auto']">GET IN TOUCH
-                        </a><!-- END LAYER LINK -->
+                        
                     </li>
 
                     <li data-index="rs-3049" data-transition="slideremovedown" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"    data-rotate="0"  data-saveperformance="off"  data-title="Ken Burns" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">     <div class="overlay-black"></div>
@@ -119,7 +98,7 @@
                             data-paddingbottom="[0,0,0,0"
                             data-paddingleft="[0,0,0,0]"
 
-                            style="z-index: 16; white-space: nowrap;">We help businesses grow and innovate
+                            style="z-index: 16; white-space: nowrap;">Sistem Integrator
                         </div>
 
                         <!-- LAYER NR. 13 -->
@@ -144,30 +123,9 @@
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
 
-                            style="z-index: 17; white-space: nowrap;">Ipsum is simply text of the stry simply dummy text of the printing and typesetting industry. Lorem Ipsum. 
+                            style="z-index: 17; white-space: nowrap;">Perencanaan, perancangan, dan analisa sistem perangkat lunak berbasis Website atau Mobile.
                         </div>
-
-                        <a href="#" target="_self" class="tp-caption flat-button-slider bg-blue" 
-
-                        data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
-                     
-                        data-x="['left','left','left','left']" data-hoffset="['35','35','35','15']" 
-                        data-y="['middle','middle','middle','middle']" data-voffset="['130','140','140','110']"
-                        data-fontsize="['14','14','14','14']" 
-                        data-width="['auto']"
-                        data-height="['auto']">READ MORE
-                        </a><!-- END LAYER LINK -->
-
-                        <a href="#" target="_self" class="tp-caption flat-button-slider bg-white" 
-
-                        data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
-                     
-                        data-x="['left','left','left','left']" data-hoffset="['225','225','225','205']" 
-                        data-y="['middle','middle','middle','middle']" data-voffset="['130','140','140','110']"  
-                        data-fontsize="['14',14','14','14']"
-                        data-width="['auto']"
-                        data-height="['auto']">GET IN TOUCH
-                        </a><!-- END LAYER LINK -->
+                        
                     </li>
 
                 </ul>
@@ -179,17 +137,17 @@
                 <div class="row">
                     <div class="about-us style3">
                         <div class="flat-title style1">
-                            <h2>Tentang Trijasa</h2>
+                            <h2>About Trijasa</h2>
                         </div>
                         <div class="content">
                         {!! $data[2]->description !!}
                         </div>
                         <div class="bottom">
-                            <div class="btn-more float-left">
-                               <a href="#" title="">Selengkapnya</a>
+                            <div class="btn-more float-left btn-about-us">
+                               <a href="/about-us" title="">Read More</a>
                             </div>
-                            <div class="btn-download float-right">
-                               <a href="#" title="">Download Company Profile</a>
+                            <div class="btn-download float-right btn-download-cp">
+                               <a href="/download-company-profile" title="">Download Company Profile</a>
                             </div>
                         </div>
                     </div>
@@ -216,7 +174,7 @@
 					<div class="col-md-6">
 						<div class="about-us style2">
 							<div class="flat-title style1">
-								<h2>Visi kami</h2>
+								<h2>Our Vision</h2>
 							</div>
 							<div class="content text-justify">
                                 <div class="visibox-content">
@@ -235,7 +193,7 @@
 					<div class="col-md-6">
 						<div class="flat-clients">
 							<div class="flat-title style1">
-								<h2>Misi Kami</h2>
+								<h2>Our Mission</h2>
 
                                 <div class="box-misi">
                                 {!! $data[1]->description !!}
@@ -257,9 +215,9 @@
                         <h2>Trijasa</h2>
                     </div>
                     <ul class="pt-4">
-                        <li>Melayani setiap kebutuhan</li>
-                        <li>Membangun bangsa</li>
-                        <li>Lorem Ipsum ist in der Industrie bereits der</li>
+                        <li>System Integrator</li>
+                        <li>Application Software</li>
+                        <li>Consultancy Services</li>
                     </ul>
                 </div>
             </div>
@@ -271,10 +229,10 @@
                                 <div class="title">
                                     01
                                 </div>
-                                <span>Kerjasama yang baik</span>
+                                <span>System Integrator</span>
                             </div>
                             <div class="box-content">
-                                <p>Membangun kemitraan yang solid dan berintegritas tinggi.</p>
+                                <p>A Company which focus in IT System Integrator, that provides Trijasa customer an end-to-end solution.</p>
                             </div>
                         </div>
                     </li>
@@ -284,10 +242,10 @@
                                 <div class="title">
                                     02
                                 </div>
-                                <span>Solusi handal</span>
+                                <span>Application Software</span>
                             </div>
                             <div class="box-content">
-                                <p>Memberikan solusi tepat dalam menyelesaikan suatu pekerjaan.</p>
+                                <p>Application Software, Data Management, Hardware Infrastructure, Security System and Process Management. </p>
                             </div>
                         </div>
                     </li>
@@ -297,14 +255,73 @@
                                 <div class="title">
                                     03
                                 </div>
-                                <span>Strategi kreatif</span>
+                                <span>Consultancy Services</span>
                             </div>
                             <div class="box-content">
-                                <p>Meningkatkan produktivitas dengan strategi terbaik.</p>
+                                <p>Consultancy Services,Implementation, Technical Support, Outsourcing and Managed Service</p>
                             </div>
                         </div>
                     </li>
                 </ul>
+            </div>
+        </section>
+
+        <section class="flat-partner style2 scroll">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul class="owl-carousel-10">
+                            <li>
+                                <img src="images/partnership/airmas.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/big_switch.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/cisco.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/dell.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/fortinet.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/hitachi.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/hp.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/huawei.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/juniper.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/mbiz.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/metrodata.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/paloalto.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/sophos.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/tplink.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/transitions.png" alt="">
+                            </li>
+                            <li>
+                                <img src="images/partnership/vmware.png" alt="">
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </div>
         </section>
 
