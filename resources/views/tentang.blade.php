@@ -78,40 +78,7 @@
 											</div>
 										</div>
 									</div>
-<<<<<<< HEAD
-									<div class="clearfix"></div>
-								</div>
-								<div class="text-about">
-									<h3>Start with a small service</h3>
-									<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
-								</div>
-								<div class="we-about">
-									<div class="one-half">
-										<div class="title">
-											VISI
-										</div>
-										<ul>
-											<li><span class="ion-checkmark-round"></span>Contrary to popular belief, Lorem Ipsum is not</li>
-											<li><span class="ion-checkmark-round"></span>It has roots in a piece of classical Latin literature</li>
-											<li><span class="ion-checkmark-round"></span>Making it over 2000 years old. Richard McClintock</li>
-											<li><span class="ion-checkmark-round"></span>Professor at Hampden-Sydney College in Virginia</li>
-										</ul>
-									</div>
-									<div class="one-half">
-										<div class="title">
-											MISI
-										</div>
-										<ul>
-											<li><span class="ion-close-round"></span>The standard chunk of Lorem Ipsum used since the 1500s</li>
-											<li><span class="ion-close-round"></span>Reproduced below for those interested. Sections 1.10.32</li>
-											<li><span class="ion-close-round"></span>And 1.10.33 from "de Finibus Bonorum et Malorum"</li>
-											<li><span class="ion-close-round"></span>Reproduced in their exact original form, accompanied</li>
-										</ul>
-									</div>
-									<div class="clearfix"></div>
-=======
 									
->>>>>>> b864ee315ed384472b7bec21798d63a6590fffd9
 								</div>
 							</div>
 							<div class="content-inner history">
