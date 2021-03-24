@@ -29,9 +29,8 @@
 								<ul class="tab-about">
 									<li class="active">About Us</li>
 									<li>Partnership</li>
-									<li>Company Experience</li>
+									<li>Customer</li>
 									<li>Our Team</li>
-									<li>Contact Us</li>
 								</ul>
 							</div>
 							<div class="widget-brochures">
@@ -90,9 +89,6 @@
 												<div class="partner-image partner-padding">
 													<img src="images/partnership/airmas.png" alt="">
 												</div>
-												<!-- <div class="partner-content">
-													<h3 class="text-center">Airmas</h3>
-												</div> -->
 											</div>
 										</div>
 										<div class="col-lg-4 col-sm-6">
@@ -209,6 +205,83 @@
 
 
 							<div class="content-inner team-member">
+								<div class="row">
+									<div class="col-lg-4 col-sm-6">
+										<div class="partner-item">
+											<div class="partner-image customer-padding">
+												<img src="images/customer/bekraf.png" alt="">
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-4 col-sm-6">
+										<div class="partner-item">
+											<div class="partner-image customer-padding">
+												<img src="images/customer/hosana_medika.png" alt="">
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-4 col-sm-6">
+										<div class="partner-item">
+											<div class="partner-image customer-padding">
+												<img src="images/customer/jaya_teknik.png" alt="">
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-4 col-sm-6">
+										<div class="partner-item">
+											<div class="partner-image customer-padding">
+												<img src="images/customer/kominfo.png" alt="">
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-4 col-sm-6">
+										<div class="partner-item">
+											<div class="partner-image customer-padding">
+												<img src="images/customer/mayora.png" alt="">
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-4 col-sm-6">
+										<div class="partner-item">
+											<div class="partner-image customer-padding">
+												<img src="images/customer/metro_hospital.png" alt="">
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-4 col-sm-6">
+										<div class="partner-item">
+											<div class="partner-image customer-padding">
+												<img src="images/customer/net1.png" alt="">
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-4 col-sm-6">
+										<div class="partner-item">
+											<div class="partner-image customer-padding">
+												<img src="images/customer/pdam.png" alt="">
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-4 col-sm-6">
+										<div class="partner-item">
+											<div class="partner-image customer-padding">
+												<img src="images/customer/pln.png" alt="">
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-4 col-sm-6">
+										<div class="partner-item">
+											<div class="partner-image partner-padding">
+												<img src="images/customer/sddpi_kominfo.png" alt="">
+											</div>
+										</div>
+									</div>									
+									
+								</div>
+							</div>
+							
+							<div class="content-inner partner">
+								<!-- Our Team -->
 								<div class="row">
 									<!-- Company Profile -->
 									<div class="col-lg-4 col-sm-6">
@@ -346,54 +419,6 @@
 											</div>
 										</div>
 									</div>
-								</div>
-							</div>
-							<div class="content-inner partner">
-								<!-- Our Team -->
-								<div class="row">
-									<div class="col-lg-4 col-sm-6">
-										<div class="partner-item">
-											<div class="partner-image">
-												<img src="images/partner/01.jpg" alt="">
-											</div>
-											<div class="partner-content">
-												<h3>Leaves & CO</h3>
-												<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
-												<div class="btn-visit">
-													<a href="#" title="">Visit Company<span class="ion-android-arrow-forward"></span></a>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="col-lg-4 col-sm-6">
-										<div class="partner-item">
-											<div class="partner-image">
-												<img src="images/partner/02.jpg" alt="">
-											</div>
-											<div class="partner-content">
-												<h3>Travel Lookbook</h3>
-												<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
-												<div class="btn-visit">
-													<a href="#" title="">Visit Company<span class="ion-android-arrow-forward"></span></a>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="col-lg-4 col-sm-6">
-										<div class="partner-item">
-											<div class="partner-image">
-												<img src="images/partner/03.jpg" alt="">
-											</div>
-											<div class="partner-content">
-												<h3>Sushi Express</h3>
-												<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
-												<div class="btn-visit">
-													<a href="#" title="">Visit Company<span class="ion-android-arrow-forward"></span></a>
-												</div>
-											</div>
-										</div>
-									</div>
-									
 								</div>
 							</div>
 							<div class="content-inner flat-faq">

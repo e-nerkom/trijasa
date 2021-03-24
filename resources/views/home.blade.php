@@ -39,7 +39,7 @@
                             data-paddingbottom="[0,0,0,0"
                             data-paddingleft="[0,0,0,0]"
 
-                            style="z-index: 16; white-space: nowrap;">Telekomunikasi &amp; IT
+                            style="z-index: 16; white-space: nowrap;">Telecommunication &amp; IT
                         </div>
 
                         <!-- LAYER NR. 13 -->
@@ -64,7 +64,7 @@
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
 
-                            style="z-index: 17; white-space: nowrap;">Sebagai penyedia Produk & Jasa Pelayanan yang mencakup Perangkat Telekomunikasi dan Jasa Telekomunikasi.
+                            style="z-index: 17; white-space: nowrap;">As a provider of Products & Services including Telecommunication Equipment and Telecommunication Services.
                         </div>
                         
                     </li>
@@ -98,7 +98,7 @@
                             data-paddingbottom="[0,0,0,0"
                             data-paddingleft="[0,0,0,0]"
 
-                            style="z-index: 16; white-space: nowrap;">Sistem Integrator
+                            style="z-index: 16; white-space: nowrap;">System Integrator
                         </div>
 
                         <!-- LAYER NR. 13 -->
@@ -123,7 +123,7 @@
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
 
-                            style="z-index: 17; white-space: nowrap;">Perencanaan, perancangan, dan analisa sistem perangkat lunak berbasis Website atau Mobile.
+                            style="z-index: 17; white-space: nowrap;">Planning, designing, and analyzing software systems based on Website or Mobile Application.
                         </div>
                         
                     </li>

@@ -552,6 +552,10 @@ h5 { font-size: 14px;}
 
 .partner-padding {
 	background-color: #f7f7f7;
+    padding: 20px 40px;
+}
+.customer-padding {
+	background-color: #f7f7f7;
     padding: 10px 20px;
 }
 
